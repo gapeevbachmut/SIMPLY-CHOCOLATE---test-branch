@@ -23,6 +23,6 @@ git fetch завантажує останні зміни з віддаленог
 стан віддаленого репозиторію, але не змінює ваш робочий каталог:
 
 щоб зберігти зміни у гілці: 1. git add . 2. git commit -m"" 3. git push origin
-<name-branch>
+"name-branch"
 
-svg
+або - git push --set-upstream origin modal_form
