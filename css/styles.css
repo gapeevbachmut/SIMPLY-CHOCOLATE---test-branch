@@ -151,9 +151,7 @@ img {
     gap: 18px;
 }
 
-.header-soc-item {}
 
-.header-soc-link {}
 
 .header-soc-icon {
     stroke: #000000;
@@ -259,7 +257,7 @@ img {
         fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.main-down-icon {}
+
 
 .main-link-down:hover,
 .main-link-down:focus {
@@ -411,8 +409,6 @@ img {
 .ingredients-item:nth-child(2n + 1) {
     color: #fff;
 }
-
-.ingredients-image {}
 
 .photo-text {
     text-transform: uppercase;
@@ -801,9 +797,6 @@ img {
     stroke: #FD9222;
 }
 
-
-.modal-close-icon {}
-
 .modal-title {
     font-weight: 600;
     font-size: 24px;
@@ -818,10 +811,6 @@ img {
 .modal-title-color {
     color: #fd9222;
 }
-
-.review-modal-form {}
-
-.modal-form-box {}
 
 .modal-form-label {
     display: block;
@@ -890,10 +879,6 @@ img {
     color: rgba(64, 64, 64, 0.3);
 }
 
-.modal-form-checkbox {}
-
-.form-checkbox-input {}
-
 .form-checkbox-label {
     cursor: pointer;
 }
@@ -913,8 +898,6 @@ img {
         fill 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
 
 }
-
-.form-checkbox-icon {}
 
 .form-checkbox-text {
     color: rgba(64, 64, 64, 0.6);
